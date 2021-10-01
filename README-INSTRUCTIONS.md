@@ -4,7 +4,7 @@ HOW TO USE THIS SCRIPT:
 3.  for CHROME : 1) go to Menu --> More Tools --> Javascript console
                  2) Copy the script below
                  3) Paste the script into the javascript console
-                 4) Press Enter key on the keyboard.
+                 4) Press Enter key on the keyboard. (Or an easier method is to right click on the page, click INSPECT, then CONSOLE, delete everything in console and then paste the code and press enter. 
     for FIREFOX : 1. Press F12 key on the keyboard
                   2. Copy and paste the script below on the console line
                   3. then press ENTER key on the keyboard.
